@@ -1,0 +1,10 @@
+name: NickPlus
+main: net.angusbeefgaming.nickplus.NickPlus
+version: 1.0
+depends: ["NickNamer", "ActionBarAPI"]
+author: ["Atticus Zambrana"]
+commands:
+  nick:
+    description: Disguised as another player
+  lookup:
+    description: Check if a player is disguised
