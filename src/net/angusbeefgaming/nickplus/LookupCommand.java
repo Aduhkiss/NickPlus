@@ -42,7 +42,7 @@ public class LookupCommand implements CommandExecutor {
 		
 		player.sendMessage(ChatColor.GREEN + "Showing Information for: " + ChatColor.GOLD + target.getDisguisedName());
 		if(target.isDisguised()) {
-			player.sendMessage(ChatColor.GREEN + "Is Nicked: " + ChatColor.GOLD + "YES" + ChatColor.GREEN + "(" + target.getDisguisedName() + ")");
+			player.sendMessage(ChatColor.GREEN + "Is Nicked: " + ChatColor.GOLD + "YES" + ChatColor.GREEN + " (" + target.getDisguisedName() + ")");
 		}
 		else {
 			player.sendMessage(ChatColor.GREEN + "Is Nicked: " + ChatColor.RED + "NO");
