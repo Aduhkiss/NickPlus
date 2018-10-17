@@ -18,7 +18,7 @@ If you use this plugin with Essentials, you MUST change some settings in config.
 ## Commands
 
 * /nick <Player> - Disguises your Name, Displayname and sets your skin as the selected player
-* /lookup <Player> - Check if a player is who they say they are. See if the player you see is a nicked youtuber
+* /lookup <Player> - Check if a player is who they say they are. See if the player you see is currently nicked
 
 ## Permissions
 
